@@ -19,5 +19,9 @@ Install Python 3.8.9 and run the included incoder.py file. it will create a file
 ## Donate 
 Please Just Donate I Really Need Money
 
-[Donate](https://www.paypal.com/donate?hosted_button_id=GA45KQCKFCNNE)
+[Donate](https://www.paypal.com/donate?hosted_button_id=GA45KQCKFCNNE)  
+
+## Contact
+[Website](https://discord.gg/dafqsUaVRx)
+
 [Discord](https://discord.gg/dafqsUaVRx)
