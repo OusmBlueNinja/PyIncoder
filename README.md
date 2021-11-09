@@ -8,15 +8,16 @@ Install Python 3.8.9 and run the included incoder.py file. it will create a file
 ### Install 
 
 1. Install timeit, os, time, and sys with pip install (name) in .cmd
-2. dowload incoder.py
-3. Exicute the incoder.py file 
-4. enter your password you want to encript the click enter
-5. go to the new password.encript and open it with text editor 
-6. copy and paste the string
-7. and there you go an encripted password
+2. dowload Encoder.py and start.py
+3. Exicute the startincoder.py file 
+4. enter the option you want to do (decde or encode)
+5. enter your password you want to encript the click enter
+6. go to the new password.encript and open it with text editor 
+7. copy and paste the string
+8. and there you go an encripted password
 
 ## Donate 
 Please Just Donate I Really Need Money
 
 [Donate](https://www.paypal.com/donate?hosted_button_id=GA45KQCKFCNNE)
-###### tks for installing and please share
+[Discord](https://discord.gg/dafqsUaVRx)
